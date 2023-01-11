@@ -22,6 +22,12 @@ docker-compose up -d
 
 ```
 
+5. Mock data with seed
+```
+http://localhost:3000/api/v2/seed
+
+```
+
 ## Used stack
 * MongoDB
 * Nest
