@@ -1,0 +1,12 @@
+html, body {
+    padding:20px;
+    text-align: center;
+    margin-top:5%;
+    font-family:Arial, Helvetica, sans-serif
+}
+
+h1 {
+    font-size: 20px;
+    color:red;
+   
+}
