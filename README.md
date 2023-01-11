@@ -22,7 +22,7 @@ docker-compose up -d
 
 ```
 
-5. Mock data with seed
+5. Mock data with seed (only in develop)
 ```
 http://localhost:3000/api/v2/seed
 
